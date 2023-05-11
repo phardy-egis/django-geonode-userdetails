@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/phardy-egis/django-geonode-userdetails/compare/v0.1.0...v0.2.0) (2023-05-11)
+
+
+### Features
+
+* user details view added ([2914bce](https://github.com/phardy-egis/django-geonode-userdetails/commit/2914bce06f3303368a794dbaf1d3dfd1e767dd64))
+
 ## 0.1.0 (2023-05-11)
 
 
