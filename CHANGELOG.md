@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/phardy-egis/django-geonode-userdetails/compare/v0.2.0...v0.3.0) (2023-06-01)
+
+
+### Features
+
+* changed status code if user is not authenticated ([f9f7699](https://github.com/phardy-egis/django-geonode-userdetails/commit/f9f7699159735ee51c4d395a35a444174d6d4c13))
+
 ## [0.2.0](https://github.com/phardy-egis/django-geonode-userdetails/compare/v0.1.0...v0.2.0) (2023-05-11)
 
 
