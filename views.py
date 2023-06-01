@@ -1,5 +1,6 @@
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
+from rest_framework.exceptions import PermissionDenied
 
 # This view returns the current user details
 @api_view(['GET'])
@@ -13,6 +14,4 @@ def current_user(request):
             'email': user.email,
         })
     else:
-        return Response({
-            'auth': 0,
-        })
+        return Response({'auth': '0'}, status=401)
