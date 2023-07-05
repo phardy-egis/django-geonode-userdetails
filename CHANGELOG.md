@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/phardy-egis/django-geonode-userdetails/compare/v0.3.0...v0.3.1) (2023-07-05)
+
+
+### Bug Fixes
+
+* added is_admin attribute to user ([ca7e22f](https://github.com/phardy-egis/django-geonode-userdetails/commit/ca7e22fa23be35d57eefd80e7358e0d0e3c39d32))
+
 ## [0.3.0](https://github.com/phardy-egis/django-geonode-userdetails/compare/v0.2.0...v0.3.0) (2023-06-01)
 
 
