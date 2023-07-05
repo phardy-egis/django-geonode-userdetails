@@ -11,6 +11,7 @@ def current_user(request):
             'id': user.id,
             'username': user.username,
             'email': user.email,
+            'is_admin': user.id_admin
         })
     else:
         return Response({'auth': '0'}, status=401)
