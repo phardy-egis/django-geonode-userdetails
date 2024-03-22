@@ -26,7 +26,7 @@ Here below are listed the instruction for install:
     ```python
     if "geonode.userdetails" in settings.INSTALLED_APPS:
         urlpatterns += [  # '',
-            url(r'^gdc/', include('geonode.userdetails.urls')),
+            url(r'^userdetails/', include('geonode.userdetails.urls')),
         ]
     ```
 
