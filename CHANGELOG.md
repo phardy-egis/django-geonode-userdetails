@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.2](https://github.com/phardy-egis/django-geonode-userdetails/compare/v0.3.1...v0.3.2) (2024-03-22)
+
+
+### Bug Fixes
+
+* error in admin status retrieval ([bb3eab8](https://github.com/phardy-egis/django-geonode-userdetails/commit/bb3eab8c60bf85232aba97fa3530450bed2861cc))
+* error in documentation ([b01338a](https://github.com/phardy-egis/django-geonode-userdetails/commit/b01338aa7d61f5f44664e07ff6a9a3c0266b4cdb))
+
 ## [0.3.1](https://github.com/phardy-egis/django-geonode-userdetails/compare/v0.3.0...v0.3.1) (2023-07-05)
 
 
