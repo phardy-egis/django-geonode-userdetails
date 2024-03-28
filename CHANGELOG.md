@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.4](https://github.com/phardy-egis/django-geonode-userdetails/compare/v0.3.3...v0.3.4) (2024-03-28)
+
+
+### Bug Fixes
+
+* set is_admin in userdetails view ([0119995](https://github.com/phardy-egis/django-geonode-userdetails/commit/01199957aae5c4afccf8ddcf5a3673cb9b408cfd))
+
 ## [0.3.3](https://github.com/phardy-egis/django-geonode-userdetails/compare/v0.3.2...v0.3.3) (2024-03-22)
 
 
